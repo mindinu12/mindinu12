@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey, I'm Mindinu!
 
-<!--
-**mindinu12/mindinu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 14 y/o Full-Stack Developer  
+💻 TypeScript | Web Dev | Game Dev  
+🧠 Exploring computer hardware & microchips  
+🎯 Building cool stuff since 2025  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- ⚡ TypeScript
+- 🌐 HTML / CSS
+- 🖥 Node.js
+- 🎮 Game Dev (in progress)
+
+---
+
+## 📌 Current Projects
+- 🎥 Streaming platform experiment
+- 🛒 Game Dev Marketplace
+- 🔬 Hardware + chip exploration
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mindinu12&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 🌐 https://asc-cores.com
+- 🐦 @mindinu_1
